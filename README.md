@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eng Mohamed Isack</h1>
+<h1 align="center">Hello 👋, I'm Eng Mohamed Isack</h1>
 <h3 align="center">A passionate Full Stack developer from Somalia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moha79159&label=Profile%20views&color=0e75b6&style=flat" alt="moha79159" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moha79159&label=Profile%20views&color=0e75b6&style=flat" alt="enginermohamed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moha79159" alt="moha79159" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enginermohamed" alt="enginermohamed" /></a> </p>
 
 - 🌱 I’m currently learning **Python, and AI**
 
